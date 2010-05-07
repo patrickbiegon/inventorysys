@@ -1,0 +1,21 @@
+ Select  Customers.CompanyName,    
+                      Customers.Address,    
+                      Customers.City,    
+                      Customers.Region,    
+                      Customers.PostalCode,    
+                      Customers.Country,    
+                      Orders.OrderDate,    
+                      Orders.RequiredDate,    
+                      Orders.ShippedDate,    
+                      Orders.ShipVia,    
+                      Orders.Freight,    
+                      Orders.ShipName,    
+                      Orders.ShipAddress,    
+                      Orders.ShipCity,    
+                      Orders.ShipRegion,    
+                      Orders.ShipPostalCode,    
+                      Orders.ShipCountry,    
+                      OrderID    
+                      From ((Orders Inner Join Customers On Orders.CustomerID=Customers.CustomerID)    
+                            Inner Join Employees On Orders.EmployeeID=Employees.EmployeeID)    
+                            Inner Join Shippers On Orders.ShipperID=Shippers.ShipperID

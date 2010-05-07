@@ -1,0 +1,75 @@
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\bin\Debug\Template1.exe
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\bin\Debug\Template1.pdb
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\ResolveAssemblyReference.cache
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.frmMain.resources
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.Properties.Resources.resources
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.csproj.GenerateResource.Cache
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.exe
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.pdb
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.frmManageRecord.resources
+D:\SIR WINSTON\PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.frmManageRecordTab.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\bin\Debug\Database\templatedb.mdb
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\bin\Debug\Database\connudl.udl
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\bin\Debug\Template1.exe.config
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\bin\Debug\Template1.exe
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\bin\Debug\Template1.pdb
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\obj\Debug\ResolveAssemblyReference.cache
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\obj\Debug\Template1.frmDataEntry.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\obj\Debug\Template1.frmMain.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\obj\Debug\Template1.frmManageRecord.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\obj\Debug\Template1.frmManageRecordTab.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\obj\Debug\Template1.Properties.Resources.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\obj\Debug\Template1.csproj.GenerateResource.Cache
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\obj\Debug\Template1.exe
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\C#  Files\EXERCISES\Delegate Sample\Template1\obj\Debug\Template1.pdb
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\ResolveAssemblyReference.cache
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.frmSplashScreen.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.frmDataEntry.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.frmMain.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.frmManageRecord.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.frmManageRecordTab.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.Properties.Resources.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.csproj.GenerateResource.Cache
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\bin\Debug\Database\templatedb.mdb
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\bin\Debug\Database\connudl.udl
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\bin\Debug\Template1.exe.config
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\bin\Debug\Template1.exe
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\bin\Debug\Template1.pdb
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.exe
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.pdb
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Template1\Template1\obj\Debug\Template1.frmLogin.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\ResolveAssemblyReference.cache
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmLogin.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmManageSupplier.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmSplashScreen.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmDataEntry.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmMain.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmManageRecord.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmManageRecordTab.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmSupplierDataEntry.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.Properties.Resources.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.csproj.GenerateResource.Cache
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\bin\Debug\Database\Inventory.mdb
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\bin\Debug\Flash\myfile.swf
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\bin\Debug\Flash\myfile_Webpage.html
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\bin\Debug\Flash\splash.html
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\bin\Debug\Flash\splash.swf
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\bin\Debug\Database\connudl.udl
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmManageProduct.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmProductDataEntry.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmManageCustomer.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmCustomerDataEntry.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmManageEmployee.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmEmployeeDataEntry.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmManageShipper.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmShipperDataEntry.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmTransaction.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmMainMenu.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.AboutUs.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\bin\Debug\TonyfearInventorySystem.exe.config
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\bin\Debug\TonyfearInventorySystem.exe
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\bin\Debug\TonyfearInventorySystem.pdb
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\TonyfearInventorySystem.exe
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\TonyfearInventorySystem.pdb
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.frmManageUser.resources
+D:\SIR WINSTON\A-1 PROG ARCHIVES\VS 05 and 08\TEMPLATE PROJECTS\C# Template Project\Inventory Template\Template1\obj\Debug\Template1.Reports.sampleReport.rpt
