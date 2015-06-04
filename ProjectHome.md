@@ -1,0 +1,1 @@
+This Project allows you manage an inventory system.  It allows you manage employees, shippers, customers, as well as user login information.  It also has products, orders, and orders details table to manipulate customer orders.  It also shows, but not create, transactions from orders placed.
